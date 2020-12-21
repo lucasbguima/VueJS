@@ -4,10 +4,10 @@
 
 <p>Conteúdo do Curso:</p>
 
-Sessão            | Conteúdo | Status
+Aula            | Conteúdo | Status
 ----------------- | -------- | :--------:
 [1]()  | Introdução e Boas-Vindas | :heavy_check_mark:
-[2]()  | Dominando os princípios | :heavy_multiplication_x:
+[2]()  | Dominando os princípios | :heavy_check_mark:
 [3]()  | Trabalhando com Listas e Condicionais | :heavy_multiplication_x:
 [4]()  | Por trás da Instância Vue | :heavy_multiplication_x:
 [5]()  | Trabalhando com Vue CLI | :heavy_multiplication_x:
