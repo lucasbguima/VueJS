@@ -2,6 +2,8 @@
 
 <p><b>Vue CLI / Vue Router / Vuex / GraphQL</b><br/></p>
 
+![Progresso](https://progress-bar.dev/12/?title=Progresso&width=120&color=000000)
+
 <p>Conteúdo do Curso:</p>
 
 Aula            | Conteúdo | Status
