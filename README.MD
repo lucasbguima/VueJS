@@ -5,7 +5,7 @@
 <p>Conteúdo do Curso:</p>
 
 Sessão            | Conteúdo | Status
------------------ | -------- | --------
+----------------- | -------- | :--------:
 [1]()  | Introdução e Boas-Vindas | :heavy_check_mark:
 [2]()  | Dominando os princípios | :heavy_multiplication_x:
 [3]()  | Trabalhando com Listas e Condicionais | :heavy_multiplication_x:
