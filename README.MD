@@ -1,8 +1,8 @@
 # Curso de VueJS - Udemy
 
-<p><b>Vue CLI / Vue Router / Vuex / GraphQL</b><br/></p>
+![Progresso](https://progress-bar.dev/18/?title=Progresso&width=120&color=000000)
 
-![Progresso](https://progress-bar.dev/12/?title=Progresso&width=120&color=000000)
+<p><b>Vue CLI / Vue Router / Vuex / GraphQL</b><br/></p>
 
 <p>Conteúdo do Curso:</p>
 
@@ -10,7 +10,7 @@ Aula            | Conteúdo | Status
 ----------------- | -------- | :--------:
 [1]()  | Introdução e Boas-Vindas | :heavy_check_mark:
 [2]()  | Dominando os princípios | :heavy_check_mark:
-[3]()  | Trabalhando com Listas e Condicionais | :heavy_multiplication_x:
+[3]()  | Trabalhando com Listas e Condicionais | :heavy_check_mark:
 [4]()  | Por trás da Instância Vue | :heavy_multiplication_x:
 [5]()  | Trabalhando com Vue CLI | :heavy_multiplication_x:
 [6]()  | Introdução aos Components | :heavy_multiplication_x:
