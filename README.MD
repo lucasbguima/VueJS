@@ -1,6 +1,6 @@
 # Curso de VueJS - Udemy
 
-![Progresso](https://progress-bar.dev/31/?title=Progresso&width=120&color=000000)
+![Progresso](https://progress-bar.dev/37/?title=Progresso&width=120&color=000000)
 
 <p><b>Vue CLI / Vue Router / Vuex / GraphQL</b><br/></p>
 
@@ -13,7 +13,7 @@ Aula            | Conteúdo | Status
 [3]()  | Trabalhando com Listas e Condicionais | :heavy_check_mark:
 [4]()  | Por trás da Instância Vue | :heavy_check_mark:
 [5]()  | Trabalhando com Vue CLI | :heavy_check_mark:
-[6]()  | Introdução aos Components | :heavy_multiplication_x:
+[6]()  | Introdução aos Components | :heavy_check_mark:
 [7]()  | Props e Events: comunicação entre Components | :heavy_multiplication_x:
 [8]()  | Slots, Components Dinâmicos e Components Assíncronos | :heavy_multiplication_x:
 [9]()  | Trabalhando com formulários | :heavy_multiplication_x:
